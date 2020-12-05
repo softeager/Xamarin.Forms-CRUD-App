@@ -1,0 +1,1 @@
+D:\Users\RPMA-New\Desktop\Visual Studio Xamarin Demo\CRUDApp\CRUDApp\CRUDApp.UWP\CRUDApp.UWP.csproj;x86
